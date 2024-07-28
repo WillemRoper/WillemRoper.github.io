@@ -1,6 +1,7 @@
-# Writer + Editor
+I'm fascinated with the evolution of software, the global computing infrastructure, and the industries and companies that build them. In recent years, I've used my journalism experience to write and edit stories with leading cloud observability and telecommunications companies. 
+#show_downloads: false
 
-### Published writing
+## Published writing
 #### Newsweek
 
 - [Businesses Are Investing Heavily in Blockchain. But Is the Trust There?](https://www.newsweek.com/businesses-are-investing-heavily-blockchain-trust-there-opinion-1529155)
@@ -24,7 +25,7 @@
 #### Rabble Magazine
 - [At 15, Brodie Lienemann Represents the Future of North Platte Skateboarding](https://issuu.com/rabblemagazine/docs/final_rm_layout1/22)
 
-### Technical editing
+## Technical editing
 #### Datadog
 
 - [The State of Serverless Report](https://www.datadoghq.com/state-of-serverless/)
