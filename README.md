@@ -26,7 +26,6 @@
 
 #### Nebraska Public Media
 - [Rep. Smith Hopes to Come to Agreement on Farm Bill, Avoid Extension](https://nebraskapublicmedia.org/en/news/news-articles/rep-smith-hopes-to-come-to-agreement-on-farm-bill-avoid-extension/)
-- 
 - [St. Patrick's Day Festivities in O'Neill on Schedule Despite Flooding](https://nebraskapublicmedia.org/en/news/news-articles/st-patricks-day-festivities-in-oneill-on-schedule-despite-flooding/)
 
 ### Technical editing
