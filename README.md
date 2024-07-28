@@ -11,10 +11,18 @@
 - [Global Warming Chart - Here's How Temperatures Have Risen Since 1950](https://www.weforum.org/agenda/2021/01/global-warming-chart-average-temperatures-rising/)
 - [Car buyers prioritize fuel efficiency over safety and low price in new survey](https://www.weforum.org/agenda/2021/03/fuel-efficiency-top-priority-for-car-buyers/)
 
+#### Statista
+- [Not So Local Newspapers](https://www.statista.com/chart/20661/largest-newspaper-publishers-in-america/)
+- [Internet Access Low Among Economic Vulnerable](https://www.statista.com/chart/22837/internet-access-among-economic-vulnerable/)
+- [Peloton Sales Double During Pandemic](https://www.statista.com/chart/22836/peloton-annual-sales/)
+
 #### Qualcomm
 - [The Qualcomm inventor who helped make Wi-Fi faster and more efficient for high-traffic networks](https://www.qualcomm.com/news/onq/2021/07/qualcomm-inventor-who-helped-make-wi-fi-faster-and-more-efficient-high-traffic)
 - [How Dr. Lola Awoniyi-Oteri optimizes 5G through power savings and mobility management inventions](https://www.qualcomm.com/news/onq/2021/07/how-dr-lola-awoniyi-oteri-optimizes-5g-through-power-savings-and-mobility)
 - [The invention of scalable numerology: how Dr. Tingfang Ji helped bring 5G to more than just smartphones](https://www.qualcomm.com/news/onq/2021/06/invention-scalable-numerology-how-dr-tingfang-ji-helped-bring-5g-more-just)
+
+#### Rabble Magazine
+- [At 15, Brodie Lienemann Represents the Future of North Platte Skateboarding](https://issuu.com/rabblemagazine/docs/final_rm_layout1/22)
 
 ### Technical editing
 #### Datadog
